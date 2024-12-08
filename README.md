@@ -9,15 +9,6 @@
 - Practice vector addition and matrix multiplication by hand
 - Understand the concept of threads, blocks, and grids
 
-## To run our compile & run our vec add kernel:
-
-```bash
-nvcc -o 01 01_vector_addition.cu
-./01
-```
-
-(add small explanations and diagrams from assets folder)
-
 ## Hardware Mapping
 
 - CUDA cores handle threads
