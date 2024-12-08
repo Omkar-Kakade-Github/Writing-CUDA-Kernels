@@ -38,7 +38,7 @@
   the last ones. random refers to the nature of instantly getting information
   from a given random index (without relying on having to index anything else). we are provided with an abstraction that seems like memory is a giant line but on chip its actually layed out as a grid (circuitry takes care of things here)
 
-![](../assets/memmodel.png)
+![](assets/memmodel.png)
 
 
 > [Efficient Matrix Tranpose Nvidia Blog Post](https://developer.nvidia.com/blog/efficient-matrix-transpose-cuda-cc/)
